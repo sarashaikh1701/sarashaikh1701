@@ -1,6 +1,6 @@
 # Hi, I'm Sara! 👋 
 
-📊 Data Scientist sharing my journey through projects <br>
+📊 Aspiring Data Analyst sharing my journey through projects <br>
 📈 Actively seeking job opportunities <br>
 🌱 Software Engineer passionate about AI, Data Science, and Sustainable Technology <br>
 🚀 Currently building an LLM Powered Movie Recommendation App <br>
