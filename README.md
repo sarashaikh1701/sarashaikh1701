@@ -1,16 +1,16 @@
-Hi, I'm Sara! 👋
-📊 Data Scientist sharing by journey through my projects
-🌱 Software Engineer passionate about AI, Data Science, and Sustainable Technology
-🚀 Currently building an LLM Powered Movie Recommendation App
-📚 Actively exploring new projects in AI, Machine Learning, and Cloud Computing
+# Hi, I'm Sara! 👋 
 
-🎓 Pursuing Masters from Trinity College Dublin with a specialization in Data Science
+📊 Data Scientist sharing my journey through projects <br>
+🌱 Software Engineer passionate about AI, Data Science, and Sustainable Technology <br> 
+🚀 Currently building an LLM Powered Movie Recommendation App <br>
+📚 Actively exploring new projects in AI, Machine Learning, and Cloud Computing <br>
+🎓 Pursuing Masters from Trinity College Dublin with a specialization in Data Science <br>  
+💻 Love learning about cloud technologies, scalable software, and data-driven solutions <br>  
+📫 How to reach me: [sarashaikh1701@gmail.com](mailto:sarashaikh1701@gmail.com) <br>
 
-💻 Love learning about cloud technologies, scalable software, and data-driven solutions
 
-📫 How to reach me: sarashaikh1701@gmail.com
+# 📊 GitHub Stats
 
-📊 GitHub Stats
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarashaikh1701&theme=radical)
 
