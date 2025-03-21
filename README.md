@@ -4,7 +4,7 @@
 📈 Actively seeking job opportunities <br>
 🌱 Software Engineer passionate about AI, Data Science, and Sustainable Technology <br>
 📚 Exploring new projects in AI, Machine Learning, and Cloud Computing <br>
-🎓 Pursuing Masters from Trinity College Dublin with a specialization in Data Science <br>
+🎓 Pursuing Masters in Computer Science with a specialization in Data Science <br>
 📫 How to reach me: [sarashaikh1701@gmail.com](mailto:sarashaikh1701@gmail.com) <br>
 
 
